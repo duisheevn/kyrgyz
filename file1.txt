@@ -1,3 +1,4 @@
-Source file1
-
 this is the new line in this file
+
+I am learning git now with Denis Astahov.
+
