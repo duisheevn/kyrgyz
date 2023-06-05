@@ -2,3 +2,4 @@ this is the new line in this file
 
 I am learning git now with Denis Astahov.
 
+New data must be private and not public. So will he checking this function from Denis.
